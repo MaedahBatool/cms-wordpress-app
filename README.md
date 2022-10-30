@@ -207,6 +207,6 @@ To deploy your local project to Vercel, push it to GitHub/GitLab/Bitbucket and [
 
 #### Deploy from Our Template
 
-Alternatively, you can deploy using our template by clicking on the Deploy button below.
+Alternatively, you can deploy it to Vercel using our template by clicking on the Deploy button below.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress&project-name=cms-wordpress&repository-name=cms-wordpress&env=WORDPRESS_API_URL&envDescription=Required%20to%20connect%20the%20app%20with%20WordPress&envLink=https://vercel.link/cms-wordpress-env)
